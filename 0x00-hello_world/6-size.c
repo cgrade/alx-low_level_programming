@@ -10,8 +10,8 @@ int main(void)
 	int B = 10;
 	long long int C = 64;
 
-	printf("Size of a char: %c", sizeof(A));
-	printf("Size of an int: %ld", sizeof(B));
-	printf("Size of a long long int: %ld", sizeof(C);
+	printf("Size of a char: %ld", sizeof(A));
+	printf("Size of an int: %d", sizeof(B));
+	printf("Size of a long long int: %ld", sizeof(C));
 	return (0);
 	}	
