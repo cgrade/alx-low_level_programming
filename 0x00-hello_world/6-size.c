@@ -10,7 +10,7 @@ int main(void)
 	int B = 10;
 	long int G = 4;
 	long long int C = 64;
-	float F;
+	float F; = 3.14f
 
 	printf("Size of a char: %ld bytes(s)\n", sizeof(A));
 	printf("Size of an int: %d bytes(s)\n", sizeof(B));
