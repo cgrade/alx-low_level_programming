@@ -10,12 +10,12 @@ int main(void)
 	int B = 10;
 	long int G = 4;
 	long long int C = 64;
-	float F = 2.5f;
+	float F;
 
-	printf("Size of a char: %ld bytes(s)", sizeof(A));
-	printf("Size of an int: %d bytes(s)", sizeof(B));
-	printf("Size of a long int: %ld bytes(s)", sizeof(G));
-	printf("Size of a long long int: %ld bytes(s)", sizeof(C));
-	printf("Size of a float: %f bytes(s)", sizeof(F));
+	printf("Size of a char: %ld bytes(s)\n", sizeof(A));
+	printf("Size of an int: %d bytes(s)\n", sizeof(B));
+	printf("Size of a long int: %ld bytes(s)\n", sizeof(G));
+	printf("Size of a long long int: %ld bytes(s)\n", sizeof(C));
+	printf("Size of a float: %f bytes(s)\n", sizeof(F));
 	return (0);
 }
