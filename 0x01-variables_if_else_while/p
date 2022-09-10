@@ -1,2 +1,2 @@
 #!/bin/bash
-git p
+git add . && git commit -m "Task 1 added" && git push
