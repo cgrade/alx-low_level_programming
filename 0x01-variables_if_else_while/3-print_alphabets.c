@@ -14,7 +14,7 @@ int main(void)
 	{
 		putchar(sm);
 	}
-	for (bg = 101; bg <= 'Z'; bg++)
+	for (bg = 65; bg <= 'Z'; bg++)
 	{
 		putchar(bg);
 	}
