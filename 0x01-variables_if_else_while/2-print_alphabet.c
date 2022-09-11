@@ -6,9 +6,9 @@
  * Return: Always 0 (Success)
  */
 int main(void);
-{	
+{
 	int ch;
-	
+
 	for (ch = 0; ch <= 'z'; ch++)
 	{
 		putchar(ch);
