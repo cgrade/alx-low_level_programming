@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . && git commit -m "Task 6 added" && git push
+git add . && git commit -m "Task 7 added" && git push
