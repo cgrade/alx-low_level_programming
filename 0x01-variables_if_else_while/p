@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . && git commit -m "Advanced task 101 added" && git push
+git add . && git commit -m "Advanced task 102 added" && git push
