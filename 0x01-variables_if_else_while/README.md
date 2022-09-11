@@ -4,8 +4,7 @@ In this project i learnt about Variables, if statements, else statements and the
 ## Tasks :page_with_curl:
 
 * **0. Positive or negative**
-  * [0-positive_or_negative.c](./0-positive_or_negative.c): Bash script that runs a C file saved in the
-  variable `$CFILE` through the preprocessor and saves the result in the file `c`.
+  * [0-positive_or_negative.c](./0-positive_or_negative.c): C program that prints wether a randomly generated numbe is negative, positive or zero, followed by a new line.
 
 * **1. Compiler**
   * [1-compiler](./1-compiler): Bash script that compiles a C file saved in the
