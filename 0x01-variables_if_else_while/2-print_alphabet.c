@@ -11,7 +11,8 @@ int main(void)
 
 	for (ch = 97; ch <= 'z'; ch++)
 	{
-		putchar(ch, 10);
+		putchar(ch);
+		putchar('\n');
 	}
 	return (0);
 }
