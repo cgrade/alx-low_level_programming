@@ -2,7 +2,7 @@
 /**
  * main -  prints alphabet in lower case times 10 followed by a new line
  */
-void print_alpohabet_x10(void)
+void print_alpahabet_x10(void)
 {
 	int i;
 
