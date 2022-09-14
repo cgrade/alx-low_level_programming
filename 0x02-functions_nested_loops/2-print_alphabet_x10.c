@@ -4,15 +4,18 @@
  */
 void print_alpahabet_x10(void)
 {
-	int i;
+	char c;
+	int i = 0;
 
-	for (i = '0'; i <= '9'; i++)
+	while (i <= 9)
 	{
-		int j;
-		for (j = 'a'; j <= 'z'; j++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			_putchar(j);
+			_putchar(c);
 		}
-		_putchar(i);
+
+		_putchar('\n');
+
+		i++;
 	}
 }
