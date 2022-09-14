@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * 4-isalpha.c - A program that checks for alphebetic character
+ * _isalpha.c - A program that checks for alphebetic character
  * @c: is th the integer argument
  * Return: return 0 or 1 depending on the condition
  */
