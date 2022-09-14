@@ -1,11 +1,9 @@
 #include "main.h"
+
 /**
- * _isalpha.c - A program that checks for alphebetic character
- * 
- * @c: is the argument of the function
- * 
- * Return: return 0 or 1 depending on the condition
- *
+ * _isalpha -> checks for alphabical letters
+ * @c:a character to be check on
+ * Return: return 0 or 1 depending on condiction
  */
 int _isalpha(int c)
 {
