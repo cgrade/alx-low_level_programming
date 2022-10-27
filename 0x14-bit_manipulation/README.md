@@ -1,9 +1,9 @@
-#0x14. C - Bit manipulation#
+#0x14.C-Bit_manipulation#
 
 **Learnt How to manipulate bits and use bitwise operators**
  * learnt the core concept behind bit manituplation and how to use the bitise operation.
 
-**Below are the Project tasks I did during the course of this Concept ./0x14. C - Bit manipulation
+**Below are the Project tasks I did during the course of this Concept ./0x14. C - Bit manipulation**
 
 ## Tasks :page_with_curl: 
 
