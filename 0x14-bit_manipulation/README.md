@@ -15,4 +15,6 @@
     * there is one or more chars in the string `b` that is not `0` or `1`
     * `b` is `NULL`
 
-* [
+* [1-print_binary.c](./1-print_binary.c) : Write a function that prints the binary representation of a number.
+
+  * Prototype
