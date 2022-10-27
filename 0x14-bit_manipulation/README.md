@@ -1,4 +1,4 @@
-#0x14. C - Bit manipulation
+#0x14. C - Bit manipulation#
 
 **Learnt How to manipulate bits and use bitwise operators**
  * learnt the core concept behind bit manituplation and how to use the bitise operation.
