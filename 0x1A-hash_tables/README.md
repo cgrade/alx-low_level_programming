@@ -580,4 +580,4 @@ julien@ubuntu:~/0x1A. Hash tables$ ./sht
 </details>
 
 ## Author
-* **Fashina Segun** - [cgrade](https://github.com/cgrade)
+* **Abraham Elijah** - [cgrade](https://github.com/cgrade)
