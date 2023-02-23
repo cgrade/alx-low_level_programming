@@ -1,0 +1,8 @@
+.PHONY: all
+CC:= gcc
+SRC:= *.c
+all: main
+
+main: 
+	$(CC) $(SRC) -o school
+
