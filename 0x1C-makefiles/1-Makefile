@@ -1,6 +1,6 @@
 .PHONY: all
 CC:= gcc
-SRC:= *.c
+SRC:= main.c school.c
 all: main
 
 main: 
